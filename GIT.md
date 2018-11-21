@@ -6,9 +6,8 @@
 ## 开启-SSH
 
 - 检查是否存在`ssh`：打开`git bash`，输入`cd ~`，再输入`cd .ssh`，如果提示目录不存在就不存在 ssh，存在就继续输入`ls`，会显示目录中的文件，查看是否存在`id_rsa`文件（如果公钥没有移动，会有 id_rsa.pub 文件）
-
 - 如果上面检测失败，执行`cd ~`，再输入`ssh-keygen -t rsa -C "你的邮箱"`启动 sshkey 创建，然后所有的提示都直接回车（选择默认值），完成后执行上一步检测
-
+- 打开`ssh`文件所在目录：打开`git bash`，输入`cd ~`，再输入`cd .ssh`，在输入`start .`即可
 - [code.aliyun.com](https://code.aliyun.com) 的 ssh 配置
 
   - 登录后点击左侧`设置`菜单
