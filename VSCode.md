@@ -1,13 +1,15 @@
-# vscode-知识点
+# vscode
 
+- vscode知识点
 - [返回文档目录](README.md)
 - 基础部分
-  - [vscode-安装](##vscode-安装)
-  - [vscode-基本配置](##vscode-基本配置)
-  - [vscode-一些快捷键](##vscode-一些快捷键)
+  - [vscode-安装](##vscode-install)
+  - [vscode-基本配置](##vscode-config)
+  - [vscode-一些快捷键](##vscode-shortcutkey)
 
-## vscode-安装
+## vscode-install
 
+- vscode软件安装
 - 点击[官方网站](https://code.visualstudio.com/)去下载  
   ![step001](vscode/vs001.png)  
   ![step002](vscode/vs002.png)  
@@ -20,11 +22,11 @@
   ![step009](vscode/vs009.png)  
   ![step010](vscode/vs010.png)  
   ![step011](vscode/vs011.png)  
-- [返回目录](#vscode-知识点)
+- [返回目录](#vscode)
 
-## vscode-基本配置
+## vscode-config
 
-- 基础配置  
+- vscode基础配置  
   ![step001](vscode/vs012.png)  
   ![step002](vscode/vs013.png)  
   ![step003](vscode/vs014.png)  
@@ -59,10 +61,11 @@
   "search.followSymlinks": false,
   "window.zoomLevel": 0
 }`
-- [返回目录](#vscode-知识点)
+- [返回目录](#vscode)
   
-## vscode-一些快捷键
+## vscode-shortcutkey
 
+- 一些快捷键
 - `alt+shift+f`格式化代码
 - `ctrl+b`打开或者关闭侧边栏
 - `ctrl+shift+k`删除行
@@ -75,4 +78,4 @@
 - `ctrl+c`复制
 - `ctrl+v`粘贴
 - `ctrl+x`剪切
-- [返回目录](#vscode-知识点)
+- [返回目录](#vscode)
