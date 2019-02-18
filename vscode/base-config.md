@@ -17,26 +17,31 @@
   ![step012](images/vs023.png)  
   ![step013](images/vs024.png)  
   ***
-- 配置代码  
-  `{  
-  "workbench.iconTheme": "vscode-great-icons",
-  "css.fileExtensions": ["css"],
-  "html.format.wrapLineLength": 400,
-  "editor.detectIndentation": false,
-  "editor.tabSize": 2,
-  "prettier.printWidth": 400,
-  "prettier.singleQuote": true,
-  "prettier.disableLanguages": ["vue", "html"],
-  "beautify.language": {
-    "js": {
-      "type": ["json"],
-      "filename": [".jshintrc", ".jsbeautifyrc"]
+- 配置代码
+
+```json
+  {  
+    "workbench.iconTheme": "vscode-great-icons",
+    "css.fileExtensions": ["css"],
+    "html.format.wrapLineLength": 400,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "prettier.printWidth": 400,
+    "prettier.singleQuote": true,
+    "prettier.disableLanguages": ["vue", "html"],
+    "beautify.language": {
+      "js": {
+        "type": ["json"],
+        "filename": [".jshintrc", ".jsbeautifyrc"]
+      },
+      "css": ["scss"],
+      "html": ["htm", "html"]
     },
-    "css": ["scss"],
-    "html": ["htm", "html"]
-  },
-  "search.followSymlinks": false,
-  "window.zoomLevel": 0
-}`
+    "search.followSymlinks": false,
+    "window.zoomLevel": 0
+  }
+```
+
   ***
+
 - [返回](index.md)
