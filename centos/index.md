@@ -10,5 +10,6 @@
 - [网络管理](network.md)
 - [jdk安装](jdk.md)
 - [git安装](git.md)
+- [ngxin安装](nginx.md)
   ***
 - [返回](../README.md)
