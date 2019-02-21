@@ -2,6 +2,7 @@
 
 - [返回](../README.md)
   ***
-- [git安装](install.md)
+- [git安装](install.md)  
+- [github](github.md)  
   ***
 - [返回](../README.md)
