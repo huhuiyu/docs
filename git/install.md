@@ -1,6 +1,6 @@
 # git安装
 
-- [返回](./)
+- [返回](README.md)
   ***
 - [centos版本安装](../centos/git.md)  
 - windows版本安装  
@@ -20,4 +20,4 @@
   ![git013](images/git013.png)  
   ![git014](images/git014.png)  
   ***
-- [返回](./)
+- [返回](README.md)
