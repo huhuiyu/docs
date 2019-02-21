@@ -1,6 +1,6 @@
 # centos知识点
 
-- [返回](../README.md)
+- [返回](../)
   ***
 - [用户管理](user.md)
 - [putty](putty.md)
@@ -12,4 +12,4 @@
 - [git安装](git.md)
 - [ngxin安装](nginx.md)
   ***
-- [返回](../README.md)
+- [返回](../)

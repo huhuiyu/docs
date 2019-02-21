@@ -1,6 +1,6 @@
 # 用户管理
 
-- [返回](index.md)
+- [返回](./)
   ***
 - 执行`ls -l /home/`查看用户列表  
   ![centos001](images/centos001.png)
@@ -15,4 +15,4 @@
   ![centos006](images/centos006.png)
 - 执行`userdel -rf username`删除参数username指定的用户
   ***
-- [返回](index.md)
+- [返回](./)

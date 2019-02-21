@@ -1,6 +1,6 @@
 # ssh
 
-- [返回](index.md)
+- [返回](./)
   ***
 - ssh配置  
   ![git-ssh001](images/git-ssh001.png)  
@@ -33,4 +33,4 @@
   ![git-ssh017](images/git-ssh017.png)  
   ![git-ssh018](images/git-ssh018.png)  
   ***
-- [返回](index.md)
+- [返回](./)
