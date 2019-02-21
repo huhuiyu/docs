@@ -1,6 +1,6 @@
 # vscode快捷键
 
-- [返回](index.md)
+- [返回](README.md)
   ***
 - `alt+shift+f`格式化代码
 - `ctrl+b`打开或者关闭侧边栏
@@ -15,4 +15,4 @@
 - `ctrl+v`粘贴
 - `ctrl+x`剪切
   ***
-- [返回](index.md)
+- [返回](README.md)

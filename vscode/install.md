@@ -1,6 +1,6 @@
 # vscode软件安装
 
-- [返回](index.md)
+- [返回](README.md)
   ***
 - 点击[官方网站](https://code.visualstudio.com/)去下载  
   ![step001](images/vs001.png)  
@@ -15,4 +15,4 @@
   ![step010](images/vs010.png)  
   ![step011](images/vs011.png)  
   ***
-- [返回](index.md)
+- [返回](README.md)

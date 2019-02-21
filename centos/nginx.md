@@ -1,6 +1,6 @@
 # nginx安装
 
-- [返回](./)
+- [返回](README.md)
   ***
 
 - 执行`vi /etc/yum.repos.d/nginx.repo`编辑 nginx 下载源，内容如下  
@@ -29,4 +29,4 @@
 
 - 通过浏览器打开`http://服务器地址`测试 nginx 是否搭建成功)
   ***
-- [返回](./)
+- [返回](README.md)

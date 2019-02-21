@@ -1,6 +1,6 @@
 # vscode基础配置
 
-- [返回](index.md)
+- [返回](README.md)
   ***
 - vscode基础配置  
   ![step001](images/vs012.png)  
@@ -44,4 +44,4 @@
 
   ***
 
-- [返回](index.md)
+- [返回](README.md)
