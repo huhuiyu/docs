@@ -1,6 +1,6 @@
 # centos安装mysql
 
-- [返回](index.md)
+- [返回](./)
   ***
 - centos安装mysql  
   执行`wget https://repo.mysql.com//mysql57-community-release-el7-11.noarch.rpm`下载安装文件  
@@ -16,4 +16,4 @@
   执行`FLUSH PRIVILEGES;`用户权限立即生效  
   现在可以用新用户登录了
   ***
-- [返回](index.md)
+- [返回](./)

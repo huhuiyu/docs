@@ -1,6 +1,6 @@
 # mysql备份
 
-- [返回](index.md)
+- [返回](./)
   ***
 - mysql主从备份  
   - 开启主库 binarylog  
@@ -31,4 +31,4 @@
   执行`CHANGE MASTER TO MASTER_HOST='主库ip', MASTER_USER='主库用户', MASTER_PASSWORD='主库密码', MASTER_LOG_FILE='上面主库查询的file', MASTER_LOG_POS=上面主库查询的position;`语句初始化从库同步状态  
   执行`show slave status\G`查看从库日志状态
   ***
-- [返回](index.md)
+- [返回](./)
