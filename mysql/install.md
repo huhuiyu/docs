@@ -9,7 +9,7 @@
   ![mysql004](images/mysql004.png)  
   ![mysql005](images/mysql005.png)  
   ![mysql006](images/mysql006.png)  
-- 安装
+- 安装  
   ![mysql007](images/mysql007.png)  
   ![mysql008](images/mysql008.png)  
   ![mysql009](images/mysql009.png)  
@@ -31,7 +31,7 @@
   ![mysql025](images/mysql025.png)  
   ![mysql026](images/mysql026.png)  
   ![mysql027](images/mysql027.png)  
-- 登录
+- 登录测试  
   ![mysql028](images/mysql028.png)  
   ![mysql029](images/mysql029.png)  
   ***
